@@ -18,7 +18,7 @@ Backend systems & architecture. Exploring **AI/ML** and **quant dev** on the sid
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="90%" src="https://ghchart.rshah.org/6C5CE7/utkarsh-saxena271" />
+  <img width="90%" src="https://ghchart.rshah.org/138F06/utkarsh-saxena271" />
 </p>
 
 ---
