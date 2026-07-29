@@ -26,7 +26,7 @@ Backend systems & architecture. Exploring **AI/ML** and **quant dev** on the sid
 ### 🚧 What I'm Doing Right Now
 
 - 🔐 Working on an auth flow
-- 🐍 Revising Python
+- 🐍 Going deep into devops
 - 📚 Solving a lot of DSA
 
 ---
