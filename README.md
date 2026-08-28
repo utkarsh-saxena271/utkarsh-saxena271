@@ -1,4 +1,4 @@
-<h1 align="center">Utkarsh Saxena</h1>
+<!-- <h1 align="center">Utkarsh Saxena</h1>
 <p align="center">Backend Developer</p>
 
 <p align="center">
@@ -113,4 +113,4 @@ Backend systems & architecture. Exploring **AI/ML** and **quant dev** on the sid
   <a href="https://portfolio.utkrsh.online/"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <br/>
   <a href="https://devium.utkrsh.online/"><img src="https://img.shields.io/badge/Devium-1a1a1a?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-</p>
+</p> -->
