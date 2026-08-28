@@ -1,3 +1,37 @@
+### Utkarsh Saxena
+
+***Backend Engineer***
+
+Backend Engineer focused on building scalable backend systems, infrastructure, and clean architectures.
+
+Currently exploring **AI/GenAI, LLMs, agentic systems, and AI infrastructure** while going deeper into distributed systems and backend engineering.
+
+### Languages
+
+`C` · `C++` · `JavaScript` · `TypeScript` · `Java` · `Python` · `Rust` · `Go`
+
+### Backend
+
+`Node.js` · `Express.js` · `FastAPI` · `PostgreSQL` · `MongoDB` · `Redis` · `Prisma` · `WebSockets` · `REST APIs`
+
+### Frontend
+
+`React` · `Next.js` · `Tailwind CSS`
+
+### Infrastructure & DevOps
+
+`Docker` · `AWS` · `Nginx` · `GitHub Actions` · `Linux` · `CI/CD`
+
+### Currently Exploring
+
+`LLMs` · `RAG` · `Embeddings` · `Tool Calling` · `AI Agents` · `LangChain` · `LangGraph` · `Distributed Systems` · `System Design`
+
+
+
+
+
+
+
 <!-- <h1 align="center">Utkarsh Saxena</h1>
 <p align="center">Backend Developer</p>
 
