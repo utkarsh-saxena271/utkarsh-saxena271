@@ -1,30 +1,19 @@
-### Utkarsh Saxena
+## Utkarsh Saxena 
+*Backend Engineer*
 
-***Backend Engineer***
+*Backend Engineer focused on building scalable backend systems, infrastructure, and clean architectures. <br/>
+Currently exploring **AI/GenAI, LLMs, agentic systems, and AI infrastructure** while going deeper into distributed systems and backend engineering.*
 
-Backend Engineer focused on building scalable backend systems, infrastructure, and clean architectures.
+**Languages** `C, C++, Java, Python Javascript, Typescript, Go, Rust`
 
-Currently exploring **AI/GenAI, LLMs, agentic systems, and AI infrastructure** while going deeper into distributed systems and backend engineering.
+**Backend**  `Node.js, Express.js. PostgreSQL, MongoDB, Redis, Prisma, Websockets, REST APIs`
 
-### Languages
+**Frontend** `React.js, Next.js, Tailwind CSS`
 
-`C` · `C++` · `JavaScript` · `TypeScript` · `Java` · `Python` · `Rust` · `Go`
+**Infrastructure & DevOps** `Docker, AWS, Nginx, Github Actions, Linux, CI/CD`
 
-### Backend
+**Currently Exploring** `LLMs, RAG, Embeddings, Tool Calling, AI Agents, LangChain, LangGraph, Distributed Systems, System Design`
 
-`Node.js` · `Express.js` · `FastAPI` · `PostgreSQL` · `MongoDB` · `Redis` · `Prisma` · `WebSockets` · `REST APIs`
-
-### Frontend
-
-`React` · `Next.js` · `Tailwind CSS`
-
-### Infrastructure & DevOps
-
-`Docker` · `AWS` · `Nginx` · `GitHub Actions` · `Linux` · `CI/CD`
-
-### Currently Exploring
-
-`LLMs` · `RAG` · `Embeddings` · `Tool Calling` · `AI Agents` · `LangChain` · `LangGraph` · `Distributed Systems` · `System Design`
 
 
 
