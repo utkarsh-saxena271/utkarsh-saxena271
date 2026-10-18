@@ -1,18 +1,17 @@
-## Utkarsh Saxena 
+## Utkarsh Saxena
 *Backend Engineer*
 
-*Backend Engineer focused on building scalable backend systems, infrastructure, and clean architectures. <br/>
-Currently exploring **AI/GenAI, LLMs, agentic systems, and AI infrastructure** while going deeper into distributed systems and backend engineering.*
+Backend-focused engineer interested in building scalable systems, understanding how things work under the hood, and exploring the intersection of infrastructure and software engineering.
 
-**Languages** `C, C++, Java, Python Javascript, Typescript, Go, Rust`
+**Languages** `C` `C++` `Java` `JavaScript` `TypeScript` `Python` `Go` `Rust`
 
-**Backend**  `Node.js, Express.js. PostgreSQL, MongoDB, Redis, Prisma, Websockets, REST APIs`
+**Backend** `Node.js` `Express.js` `PostgreSQL` `MongoDB` `Redis` `Prisma` `REST APIs`
 
-**Frontend** `React.js, Next.js, Tailwind CSS`
+**Frontend** `React` `Next.js` `Tailwind CSS`
 
-**Infrastructure & DevOps** `Docker, AWS, Nginx, Github Actions, Linux, CI/CD`
+**Infrastructure & DevOps** `Docker` `AWS` `Nginx` `Linux` `GitHub Actions` `CI/CD`
 
-**Currently Exploring** `LLMs, RAG, Embeddings, Tool Calling, AI Agents, LangChain, LangGraph, Distributed Systems, System Design`
+**Currently Exploring** `Low-Level Systems` `Web3` `Real-Time Communication` `WebSockets` `WebRTC` `Agentic AI` `Generative AI`
 
 
 
